@@ -1,6 +1,6 @@
 {
   "data": [
-      {
+       {
       "name": "玖草",
       "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p3728.jpg",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
@@ -13,7 +13,7 @@
       "click": true,
       "webPlus": {
         "search_url": "https://fuckfuck.club/?m=search-type-so-0.html&TXT={kw}",
-        "nav_url": "https://fuckfuck.club/?m=vod-type-navCate-navPage/",
+        "nav_url": "https://fuckfuck.club/?m=video_list*navCate*navPage/",
         "cate_url": "https://www.shenma4480.com/show/cateNav-cateArea--cateCate-----catePage---cateYear.html",
         "web_name": "玖草",
         "kw": "wd",
@@ -25,13 +25,14 @@
         ],
         "navHtml": {
           "name": [
-            "国产",
-            "连续剧",
-            "动漫",
-            "综艺",
-            "其他",
-	     "其他",
-	     "三"
+            "亚洲",
+            "热门女优",
+            "中文字幕",
+            "国产自拍",
+            "无码",
+	     "欧美",
+	      "JAV高清",
+	     "4K岛国"
           ],
           "cate": [
             "1",
@@ -39,8 +40,9 @@
             "3",
             "4",
             "5",
-	     "24",
-	     "11"
+	     "11",
+	     "18",
+	     "12"
           ],
           "page": "1"
         },
