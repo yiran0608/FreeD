@@ -1,7 +1,7 @@
 {
   "data": [
        {
-      "name": "午夜影院",
+      "name": "午夜影院哦",
       "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p3728.jpg",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
@@ -273,10 +273,10 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "div.group-contents.layui-row",
+            "mainCss": "group-contents.layui-row",
             "mainListIndex": 0,
             "nameAttr": "p",
-            "nameCss": "img",
+            "nameCss": "p",
             "nameIndex": 0,
             "searchListCss": "a",
             "urlAttr": "href",
