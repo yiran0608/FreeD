@@ -60,13 +60,13 @@
             "isListItemAttr": true,
             "isReg": false,
             "isRegNeedDecoder": false,
-            "listCss": "ul > li",
+            "listCss": "div.read-btn.uk-margin-bottom.uk-float-left",
             "isMultiList": false,
             "listCssMulti": "",
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "stui-player.col-pd",
+            "mainCss": "video-content",
             "mainIndex": 0,
             "regIndexList": [
               0
@@ -238,14 +238,14 @@
             "isListItemAttr": true,
             "isReg": false,
             "isRegNeedDecoder": false,
-            "listCss": "ul",
+            "listCss": "div.group-contents.layui-row",
             "isMultiList": false,
             "listCssMulti": "",
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "div.page-info",
-            "mainIndex": 0,
+            "mainCss": "div.group-contents.layui-row",
+            "mainIndex": 1,
             "regIndexList": [
               0
             ],
