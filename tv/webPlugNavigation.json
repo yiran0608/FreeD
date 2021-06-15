@@ -275,7 +275,7 @@
             "isUrlAttr": true,
             "mainCss": "div.group-contents.layui-row",
             "mainListIndex": 0,
-            "nameAttr": "p",
+            "nameAttr": "",
             "nameCss": "p",
             "nameIndex": 0,
             "searchListCss": "a",
