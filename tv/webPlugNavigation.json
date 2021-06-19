@@ -182,7 +182,7 @@
       "webOpen": false,
       "click": true,
       "webPlus": {
-        "search_url": "http://firstroom001.com/search/type/{kw}",
+        "search_url": "http://firstroom001.com/search/type/{kw}/1.html",
         "nav_url": "http://firstroom001.com/vod/type/navCate/navPage.html",
         "cate_url": "https://www.shenma4480.com/show/cateNav-cateArea--cateCate-----catePage---cateYear.html",
         "web_name": "一号房",
@@ -278,7 +278,7 @@
             "mainCss": "div.group-contents.layui-row",
             "mainListIndex": 0,
             "nameAttr": "",
-            "nameCss": "a > p",
+            "nameCss": "p",
             "nameIndex": 0,
             "searchListCss": "a",
             "urlAttr": "href",
